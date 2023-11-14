@@ -7,4 +7,4 @@ My 3D CV Study Touring
 
 
 ## 课程笔记
-- [课程记录](./Notes/markdown/StructLight-Note.md)
+- [课程记录](./ClassNotes/markdown/StructLight-Note.md)
